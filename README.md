@@ -39,7 +39,7 @@ This project was developed iteratively across four major phases:
     </tr>
     <tr>
       <td><img src="assets/Home_Page.png" width="220" alt="Home Dashboard"/></td>
-      <td><img src="assets/add_expense.png" width="220" alt="Add Expense Form"/></td>
+      <td><img src="assets/Add_Expense.png" width="220" alt="Add Expense Form"/></td>
     </tr>
     <tr>
       <td align="center"><b>Trends & History</b></td>
