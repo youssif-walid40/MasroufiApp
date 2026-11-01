@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780461629622",
+    "project_id": "masroufi-app-18068",
+    "storage_bucket": "masroufi-app-18068.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780461629622:android:bf55f7114b6dae24dd4617",
+        "android_client_info": {
+          "package_name": "com.example.assignment_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7lCkCzy4d1_QT6t-_YHAYg-3KBRTd86c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
