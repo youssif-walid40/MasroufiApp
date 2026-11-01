@@ -29,14 +29,28 @@ This project was developed iteratively across four major phases:
 3. **Analytics & Persistence:** Added multi-screen navigation, monthly summary graphs, user trend discovery, and persistent settings (Toggling Privacy Mode).
 4. **Cloud Integration & State Management:** Refactored state management using `Provider`, migrated data persistence to a Firebase backend, and applied offline caching strategies.
 
-<!-- ## 📱 Screenshots
+## 📱 Screenshots
 
-<!-- Add your screenshots here. You can upload them to an 'assets' folder in your repo and link them like this: -->
-<!-- <p float="left">
-  <img src="assets/home_screen.png" width="200" alt="Home Screen"/>
-  <img src="assets/add_expense.png" width="200" alt="Add Expense"/>
-  <img src="assets/analytics.png" width="200" alt="Analytics Graph"/>
-</p> -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Home Dashboard</b></td>
+      <td align="center"><b>Add Expense</b></td>
+    </tr>
+    <tr>
+      <td><img src="assets/Home_Page.png" width="220" alt="Home Dashboard"/></td>
+      <td><img src="assets/add_expense.png" width="220" alt="Add Expense Form"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Trends & History</b></td>
+      <td align="center"><b>Category Budgets</b></td>
+    </tr>
+    <tr>
+      <td><img src="assets/Recent_Transactions.png" width="220" alt="Recent Transactions and Trends"/></td>
+      <td><img src="assets/Set_Category_Budget.png" width="220" alt="Set Category Budget Ceilings"/></td>
+    </tr>
+  </table>
+</div>
 
 ## ⚙️ Getting Started
 
